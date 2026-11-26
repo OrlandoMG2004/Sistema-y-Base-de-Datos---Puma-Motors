@@ -1,6 +1,7 @@
-# Sistema y Base de Datos — Puma Motors EIRL
+# Aplicativo de Nota de Ingreso a Almacén para Empresa Importadora Automotriz
 
-Sistema de escritorio y arquitectura de base de datos relacional desarrollados para gestionar el proceso de **Nota de Ingreso a Almacén** de la empresa **Puma Motors EIRL**. El proyecto garantiza la integridad referencial, el control transaccional de recepciones de mercadería, la vinculación documental y la trazabilidad completa del inventario.
+
+Sistema de escritorio y arquitectura de base de datos relacional Aplicativo de Nota de Ingreso a Almacén para Empresa Importadora Automotriz. El proyecto garantiza la integridad referencial, el control transaccional de recepciones de mercadería, la vinculación documental y la trazabilidad completa del inventario.
 
 ---
 
